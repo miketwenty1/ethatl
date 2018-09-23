@@ -1,0 +1,34 @@
+[
+  {
+    "constant": false,
+    "inputs": null,
+    "name": "check1",
+    "outputs": null,
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "constant": false,
+    "inputs": null,
+    "name": "beforeAll",
+    "outputs": null,
+    "payable": false,
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "constant": true,
+    "inputs": null,
+    "name": "check2",
+    "outputs": [
+      {
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "payable": false,
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
